@@ -1,0 +1,151 @@
+
+(module DIP8 (layer F.Cu) (tedit 60DC0BC0)
+  (descr "<b>SMD DIL08</b> Gull Wing Surface Mount Optioon 300<p>Source: http://www.avagotech.com/docs/AV02-0410EN")
+  (fp_text reference REF** (at -6.28847 -0.04001 900) (layer F.SilkS)
+    (effects (font (size 1.00294488189 1.00294488189) (thickness 0.15)))
+  )
+  (fp_text value DIP8 (at 6.28496 1.86953 900) (layer F.Fab)
+    (effects (font (size 1.00239370079 1.00239370079) (thickness 0.15)))
+  )
+  (fp_line (start -4.81 3.075) (end 4.81 3.075) (layer F.Fab) (width 0.2032))
+  (fp_line (start 4.81 3.075) (end 4.81 -3.075) (layer F.SilkS) (width 0.2032))
+  (fp_line (start 4.81 -3.075) (end -4.81 -3.075) (layer F.Fab) (width 0.2032))
+  (fp_line (start -4.81 -3.075) (end -4.81 3.075) (layer F.SilkS) (width 0.2032))
+  (fp_circle (center -3.81 2.159) (end -3.4433 2.159) (layer F.SilkS) (width 0.0))
+  (fp_poly
+    (pts
+      (xy -4.10089 3.81)
+      (xy -3.5301 3.81)
+      (xy -3.5301 4.83795)
+      (xy -4.10089 4.83795)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -1.55096 3.81)
+      (xy -0.9901 3.81)
+      (xy -0.9901 4.8283)
+      (xy -1.55096 4.8283)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.992107 3.81)
+      (xy 1.5499 3.81)
+      (xy 1.5499 4.83479)
+      (xy 0.992107 4.83479)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 3.53261 3.81)
+      (xy 4.0899 3.81)
+      (xy 4.0899 4.82844)
+      (xy 3.53261 4.82844)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 3.53497 -4.825)
+      (xy 4.0899 -4.825)
+      (xy 4.0899 -3.81526)
+      (xy 3.53497 -3.81526)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.993709 -4.825)
+      (xy 1.5499 -4.825)
+      (xy 1.5499 -3.82389)
+      (xy 0.993709 -3.82389)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -1.55253 -4.825)
+      (xy -0.9901 -4.825)
+      (xy -0.9901 -3.81648)
+      (xy -1.55253 -3.81648)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -4.10099 -4.825)
+      (xy -3.5301 -4.825)
+      (xy -3.5301 -3.82032)
+      (xy -4.10099 -3.82032)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.15629 -3.81)
+      (xy -0.4 -3.81)
+      (xy -0.4 -3.10907)
+      (xy -2.15629 -3.10907)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -4.10701 -3.81)
+      (xy -2.94 -3.81)
+      (xy -2.94 -3.10529)
+      (xy -4.10701 -3.10529)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.390298 -3.81)
+      (xy 2.14 -3.81)
+      (xy 2.14 -3.10236)
+      (xy 0.390298 -3.10236)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.93562 -3.81)
+      (xy 4.1 -3.81)
+      (xy 4.1 -3.10594)
+      (xy 2.93562 -3.10594)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -4.08325 3.1)
+      (xy -2.93 3.1)
+      (xy -2.93 3.81771)
+      (xy -4.08325 3.81771)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.14492 3.1)
+      (xy -0.39 3.1)
+      (xy -0.39 3.81876)
+      (xy -2.14492 3.81876)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.400716 3.1)
+      (xy 2.15 3.1)
+      (xy 2.15 3.81682)
+      (xy 0.400716 3.81682)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.94463 3.1)
+      (xy 4.1 3.1)
+      (xy 4.1 3.816)
+      (xy 2.94463 3.816)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (pad 1 smd rect (at -3.81 4.45) (size 1.16 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 2 smd rect (at -1.27 4.45) (size 1.27 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 3 smd rect (at 1.27 4.45) (size 1.27 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 4 smd rect (at 3.81 4.45) (size 1.16 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 5 smd rect (at 3.81 -4.45) (size 1.16 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 6 smd rect (at 1.27 -4.45) (size 1.27 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 7 smd rect (at -1.27 -4.45) (size 1.27 2.0) (layers F.Cu F.Mask F.Paste))
+  (pad 8 smd rect (at -3.81 -4.45) (size 1.16 2.0) (layers F.Cu F.Mask F.Paste))
+)

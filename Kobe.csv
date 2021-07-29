@@ -1,0 +1,18 @@
+Quantity,Link,Designator(s),Manufacturer,Part #,Supplier 1,Part #,Supplier 2 ,Part #
+,,,,,,,,
+2,https://www.samtec.com/products/shf-105-01-l-d-th,J1/2,Samtec,SHF-105-01-L-D-TH,DigiKey,SAM10711-ND,Mouser,200-SHF10501LDTH
+2,https://www.murata.com/en-us/products/productdetail?partno=RDE5C1H104J2K1H03B,C1/2,Murata,RDE5C1H104J2K1H03B,DigiKey,490-RDE5C1H104J2K1H03B-ND,Mouser,81-RDE5C1H104J2K1H3B
+1,https://www.broadcom.com/products/optocouplers/industrial-plastic/digital-optocouplers/high-speed-cmos/hcpl-7721,IC1,Broadcom,HCPL-7721-000E,DigiKey,516-1550-5-ND,Mouser,630-HCPL-7721-000E
+1,https://www.samtec.com/products/tsw-103-08-f-s-ra,J3,Samtec,TSW-103-08-F-S-RA,DigiKey,,Mouser,
+1,,PCB,Custom, -,, -,, -
+1,Solder (Roll/Tube),,,,,,,
+,,,,,,,,
+4,10-pin IDC Connector: https://www.samtec.com/products/ffsd-05-01-n,,Samtec,FFSD-05-01-N,DigiKey,SAM10472-ND,Mouser,200-FFSD0501N
+2,"10-conductor Ribbon Cable (2 lengths, cut from 1 longer length)",,CNC Tech,300-30-10-GR-0250F,DigiKey,300-30-10-GR-0250F,Arrow,300-30-10-GR-0250F
+2,3-pin Molex Connector,,Molex,50579003,DigiKey,WM2801-ND,Mouser,50579003
+6,Molex Crimp Sockets (for use with connector above),,Molex,16021124,DigiKey,WM2573-ND,Mouser,16021124
+1,PWM Cable,,,,,,,
+,,,,,,,,
+,[Or: 2x premade 10-pin jumpers and 1x premade PWM cable],,,,,,,
+,,,,,,,,
+1,Heatshrink,,3M,"FP-301 1"" CR 100'",DigiKey,FP100C-3R0-ND,Mouser,"FP-301 1 1/2"" CR 100'"

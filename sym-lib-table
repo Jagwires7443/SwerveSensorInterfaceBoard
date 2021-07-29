@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name RDE5C1H104J2K1H03B)(type Legacy)(uri ${KIPRJMOD}/RDE5C1H104J2K1H03B/RDE5C1H104J2K1H03B.lib)(options "")(descr ""))
+  (lib (name HCPL-7721-000E)(type Legacy)(uri ${KIPRJMOD}/HCPL-7721-000E/HCPL-7721-000E.lib)(options "")(descr ""))
+  (lib (name SHF-105-01-X-D-TH)(type Legacy)(uri ${KIPRJMOD}/SHF-105-01-X-D-TH/SHF-105-01-X-D-TH.lib)(options "")(descr ""))
+  (lib (name TSW-103-08-F-S-RA)(type Legacy)(uri ${KIPRJMOD}/TSW-103-08-F-S-RA/TSW-103-08-F-S-RA.lib)(options "")(descr ""))
+)

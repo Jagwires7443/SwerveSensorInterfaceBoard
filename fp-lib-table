@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name RDE5C1H104J2K1H03B)(type KiCad)(uri ${KIPRJMOD}/RDE5C1H104J2K1H03B)(options "")(descr ""))
+  (lib (name HCPL-7721-000E)(type KiCad)(uri ${KIPRJMOD}/HCPL-7721-000E)(options "")(descr ""))
+  (lib (name SHF-105-01-X-D-TH)(type KiCad)(uri ${KIPRJMOD}/SHF-105-01-X-D-TH)(options "")(descr ""))
+  (lib (name TSW-103-08-F-S-RA)(type KiCad)(uri ${KIPRJMOD}/TSW-103-08-F-S-RA)(options "")(descr ""))
+)
