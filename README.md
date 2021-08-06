@@ -10,3 +10,5 @@ These are the [KiCad](https://www.kicad.org/) design files, including schematic 
 ![alt text](https://github.com/Jagwires7443/SwerveSensorInterfaceBoard/blob/main/Board%20PCB.JPG?raw=true)
 
 ![alt text](https://github.com/Jagwires7443/SwerveSensorInterfaceBoard/blob/main/Board%203D.JPG?raw=true)
+
+Note that a simpler way to handle this is to leave the SPARK MAX out of things and to simply connect pins 2 (+5V), 9 (PWM), and 10 (GND) from the SRX MAG ENCODER to a roboRIO digital input.  Indeed, until REV addresses https://trello.com/c/bvnPPcZD/108-add-continuous-pid-capability, there's not much point in trying to use the SPARK MAX to directly handle closed-loop control.
