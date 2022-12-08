@@ -11,7 +11,7 @@ These are the [KiCad](https://www.kicad.org/) design files, including schematic 
 
 ![alt text](https://github.com/Jagwires7443/SwerveSensorInterfaceBoard/blob/main/Board%203D.JPG?raw=true)
 
-***Note that a simpler way to handle this is to leave the SPARK MAX out of things and to simply connect pins 2 (+5V), 9 (PWM), and 10 (GND) from the SRX MAG ENCODER to a roboRIO digital input.  Indeed, until REV addresses [this](https://trello.com/c/bvnPPcZD/108-add-continuous-pid-capability) bug, there's not much point in trying to use the SPARK MAX to directly handle closed-loop control.  Here are links to parts (multiple suppliers) that are helpful with this approach:
+***Note that a simpler way to handle this is to leave the SPARK MAX out of things and to simply connect pins 2 (+5V), 9 (PWM), and 10 (GND) from the SRX MAG ENCODER to a roboRIO digital input.  Indeed, until REV addresses [this](https://trello.com/c/bvnPPcZD/108-add-continuous-pid-capability) bug (fixed for 2023), there's not much point in trying to use the SPARK MAX to directly handle closed-loop control.  Here are links to parts (multiple suppliers) that are helpful with this approach:
 [CABLE ASSEM .05" 10POS 3"](https://www.digikey.com/en/products/detail/samtec-inc/FFSD-05-D-03-00-01-N/2651110),
 [10-pin 2x5 Socket-Socket 1.27mm IDC (SWD) Cable - 150mm long](https://www.adafruit.com/product/1675),
 [SRX / Gadgeteer Data Cable (4-pack)](https://newsite.ctr-electronics.com/srx-gadgeteer-data-cable-4-pack/),
